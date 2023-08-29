@@ -9,27 +9,9 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=02877d90e42fc75e922393d4b231bb9c5f64f5a6">
 
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
   </head>
 
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          
-
-          <h1 id="project_title">osint4all.github.io</h1>
-          <h2 id="project_tagline">GitHub version of https://start.me/p/L1rEYQ/osint4all</h2>
-
-          
-        </header>
-    </div>
 
 
 <h2 id="throwaway-contact">THROWAWAY CONTACT</h2>
