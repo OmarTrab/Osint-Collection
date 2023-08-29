@@ -3098,6 +3098,5 @@
 
 <p><a href="https://www.cdsbc.org/home/registrant-lookup#/lookup/dentists">Registrant Lookup</a></p>
 
-    </div>
   </body>
 </html>
